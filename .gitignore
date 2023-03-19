@@ -1,0 +1,14 @@
+
+client/node_modules
+web3/node_modules
+web3/.env
+web3/coverage
+web3/coverage.json
+web3/typechain
+web3/typechain-types
+
+#Hardhat files
+web3/cache
+web3/artifacts
+
+

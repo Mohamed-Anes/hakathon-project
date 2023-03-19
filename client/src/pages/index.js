@@ -1,0 +1,10 @@
+export { default as Home } from './Home';
+export { default as Profile } from './Profile';
+export { default as CreateCampaign } from './CreateCampaign';
+export { default as CampaignDetails } from './CampaignDetails';
+export { default as About } from './About';
+export { default as Governement } from './Governement';
+export { default as Medicine} from './domains/Medicine';
+export { default as Informatique} from './domains/Informatique';
+export { default as Economy} from './domains/Economy';
+export { default as Chemistry} from './domains/Chemistry';
